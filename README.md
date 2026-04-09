@@ -16,3 +16,6 @@ Hey, I'm Shrey Mehrotra — a Computer Science student and a full-stack develope
 
 # 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreymehrotra07&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Animation
+![snake gif](https://github.com/shreymehrotra07/shreymehrotra07/blob/output/github-contribution-grid-snake.svg)
