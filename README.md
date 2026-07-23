@@ -1,7 +1,35 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey, I'm Shrey Mehrotra — a Computer Science student and a full-stack developer focused on building scalable and user-centric web applications.<br>I primarily work with the MERN stack (MongoDB, Express.js, React.js, Node.js), with a growing interest in backend development — designing RESTful APIs, handling databases efficiently, and building systems that perform reliably in real-world use cases.<br>I enjoy taking complete ownership of projects — from designing intuitive frontends to developing robust backend architectures and integrating everything into a seamless experience.<br>Some projects I’ve built that I’m proud of:<br>● MED SPACE — Healthcare Management Web App  <br>A full-stack healthcare system for managing patients and appointments. Built using Node.js, Express.js, and MongoDB, with RESTful APIs and complete CRUD functionality for dynamic data handling.<br>● E-Commerce Website  <br>Developed a responsive e-commerce platform with product listings, filtering, and a smooth user experience. Focused on frontend performance, UI/UX, and scalable structure.<br>● Personal Portfolio Website  <br>Designed and developed a modern portfolio using HTML, Tailwind CSS, and JavaScript to showcase projects and skills with a clean, responsive interface.<br>Through these projects, I’ve strengthened my understanding of full-stack development, API integration, and building production-ready applications.<br>I’m currently improving my problem-solving skills and exploring backend systems more deeply to prepare for tech placements.<br>I believe in writing clean, maintainable code and building solutions that are both efficient and impactful.<br>Always open to collaborating on projects, learning new technologies, or discussing ideas 🚀
+Hi, I'm **Shrey Mehrotra**, a Computer Science undergraduate at **GLA University** and a passionate **Full Stack Developer** with a strong interest in building scalable, production-ready web applications.
+
+💻 I specialize in the **MERN Stack** and enjoy transforming ideas into real-world products with clean architecture, secure authentication, payment integration, and modern UI/UX.
+
+🚀 During my internship at **Bellurbis Technologies**, I worked on full-stack web applications, collaborated with experienced developers, and gained hands-on experience in debugging, version control, and production development workflows.
+
+### 🔥 What I Do
+- 🌐 Build Full Stack Web Applications using MERN Stack
+- ⚡ Develop secure REST APIs and scalable backend systems
+- 🎨 Create responsive and modern user interfaces with React & Tailwind CSS
+- 📚 Solve Data Structures & Algorithms problems in Java
+- 🤝 Continuously learn new technologies and software engineering best practices
+
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript, Python, C, SQL
+
+**Frontend:** React.js, Tailwind CSS, HTML5, CSS3, Vite, React Router, Framer Motion, Three.js
+
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, REST APIs, Razorpay, Cloudinary
+
+**Tools:** Git, GitHub, Postman, VS Code, Vercel
+
+### 🏆 Highlights
+- 💼 Software Intern at Bellurbis Technologies Pvt. Ltd.
+- 🏅 Top 25 Team – Hack and Viz 2.0 Hackathon
+- 📈 Solved 376+ LeetCode problems with a Contest Rating of **1526** (Top 37.64% globally)
+- 🚀 Built production-ready projects including an Event Management Platform and a Full-Stack E-Commerce Application
+
+---
 
 
 ## 🌐 Socials:
