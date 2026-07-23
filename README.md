@@ -26,7 +26,7 @@ Hi, I'm **Shrey Mehrotra**, a Computer Science undergraduate at **GLA University
 ### 🏆 Highlights
 - 💼 Software Intern at Bellurbis Technologies Pvt. Ltd.
 - 🏅 Top 25 Team – Hack and Viz 2.0 Hackathon
-- 📈 Solved 376+ LeetCode problems with a Contest Rating of **1526** (Top 37.64% globally)
+- 📈 Solved 400+ LeetCode problems with a Contest Rating of **1526** (Top 37.64% globally)
 - 🚀 Built production-ready projects including an Event Management Platform and a Full-Stack E-Commerce Application
 
 ---
